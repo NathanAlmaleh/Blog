@@ -1,0 +1,11 @@
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\bin\Debug\netcoreapp2.1\blog exercise.deps.json
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\bin\Debug\netcoreapp2.1\blog exercise.runtimeconfig.json
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\bin\Debug\netcoreapp2.1\blog exercise.runtimeconfig.dev.json
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\bin\Debug\netcoreapp2.1\blog exercise.dll
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\bin\Debug\netcoreapp2.1\blog exercise.pdb
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.csprojAssemblyReference.cache
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.csproj.CoreCompileInputs.cache
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.AssemblyInfoInputs.cache
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.AssemblyInfo.cs
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.dll
+C:\Users\nathan almaleh\source\repos\blog exercise\blog exercise\obj\Debug\netcoreapp2.1\blog exercise.pdb
